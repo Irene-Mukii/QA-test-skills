@@ -1,0 +1,101 @@
+{"level":30,"time":"2023-02-20T08:15:50.555Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Listening on 44187"}
+{"level":30,"time":"2023-02-20T08:15:50.615Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-02-20T08:15:50.615Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-02-20T08:15:50.618Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-02-20T08:15:50.618Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-02-20T08:15:50.621Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2023-02-20T08:15:50.817Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"End of node method newBrowser"}
+{"level":30,"time":"2023-02-20T08:15:50.820Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Start of node method newPage"}
+{"level":30,"time":"2023-02-20T08:15:50.820Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2023-02-20T08:15:50.829Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Changed active context"}
+{"level":30,"time":"2023-02-20T08:15:50.967Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Video path: undefined"}
+{"level":30,"time":"2023-02-20T08:15:50.967Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Changed active page"}
+{"level":30,"time":"2023-02-20T08:15:56.844Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"End of node method newPage"}
+{"level":30,"time":"2023-02-20T08:15:56.852Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-02-20T08:15:56.852Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Strict mode is enabled, find Locator with id=username in page."}
+{"level":30,"time":"2023-02-20T08:15:56.897Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"End of node method fillText"}
+{"level":30,"time":"2023-02-20T08:15:56.901Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-02-20T08:15:56.902Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Strict mode is enabled, find Locator with input#password in page."}
+{"level":30,"time":"2023-02-20T08:15:56.924Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"End of node method fillText"}
+{"level":30,"time":"2023-02-20T08:15:56.929Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Start of node method click"}
+{"level":30,"time":"2023-02-20T08:15:56.929Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Strict mode is enabled, find Locator with button.radius in page."}
+{"level":30,"time":"2023-02-20T08:15:57.577Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"End of node method click"}
+{"level":30,"time":"2023-02-20T08:15:57.582Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Start of node method getText"}
+{"level":30,"time":"2023-02-20T08:15:57.582Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Strict mode is enabled, find Locator with body in page."}
+{"level":30,"time":"2023-02-20T08:15:57.623Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Retrieved text for element body containing  You logged into a secure area!\n×\nSecure Area\nWelcome to the Secure Area. When you are done click logout below.\nLogout\nPowered by Elemental Selenium"}
+{"level":30,"time":"2023-02-20T08:15:57.623Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"End of node method getText"}
+{"level":30,"time":"2023-02-20T08:15:57.629Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Start of node method click"}
+{"level":30,"time":"2023-02-20T08:15:57.629Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Strict mode is enabled, find Locator with a.button in page."}
+{"level":30,"time":"2023-02-20T08:15:58.212Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"End of node method click"}
+{"level":30,"time":"2023-02-20T08:15:58.215Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-02-20T08:15:58.222Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-02-20T08:15:58.224Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-02-20T08:15:58.227Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-02-20T08:15:58.231Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Changed active context"}
+{"level":30,"time":"2023-02-20T08:15:58.231Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Changing current active page"}
+{"level":30,"time":"2023-02-20T08:15:58.231Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Changed active page"}
+{"level":30,"time":"2023-02-20T08:15:58.234Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-02-20T08:15:58.236Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-02-20T08:15:58.238Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-02-20T08:15:58.238Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-02-20T08:15:58.240Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-02-20T08:15:58.240Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-02-20T08:15:58.244Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-02-20T08:15:58.246Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-02-20T08:15:58.247Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Changed active context"}
+{"level":30,"time":"2023-02-20T08:15:58.247Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Changing current active page"}
+{"level":30,"time":"2023-02-20T08:15:58.247Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Changed active page"}
+{"level":30,"time":"2023-02-20T08:15:58.249Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Start of node method closeContext"}
+{"level":30,"time":"2023-02-20T08:15:58.264Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Removed page=da9d9f2d-fa8b-49f6-b802-febab833b396 from context=459d5f76-93c6-42f6-aaeb-af76bf2efe4d page stack"}
+{"level":30,"time":"2023-02-20T08:15:58.276Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"End of node method closeContext"}
+{"level":30,"time":"2023-02-20T08:15:58.279Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-02-20T08:15:58.279Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-02-20T08:15:58.284Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2023-02-20T08:15:58.565Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"End of node method newBrowser"}
+{"level":30,"time":"2023-02-20T08:15:58.569Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Start of node method newPage"}
+{"level":30,"time":"2023-02-20T08:15:58.569Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2023-02-20T08:15:58.577Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Changed active context"}
+{"level":30,"time":"2023-02-20T08:15:58.715Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Video path: undefined"}
+{"level":30,"time":"2023-02-20T08:15:58.715Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Changed active page"}
+{"level":30,"time":"2023-02-20T08:16:06.739Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"End of node method newPage"}
+{"level":30,"time":"2023-02-20T08:16:06.744Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-02-20T08:16:06.744Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Strict mode is enabled, find Locator with id=username in page."}
+{"level":30,"time":"2023-02-20T08:16:06.769Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"End of node method fillText"}
+{"level":30,"time":"2023-02-20T08:16:06.772Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-02-20T08:16:06.772Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Strict mode is enabled, find Locator with input#password in page."}
+{"level":30,"time":"2023-02-20T08:16:06.785Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"End of node method fillText"}
+{"level":30,"time":"2023-02-20T08:16:06.787Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Start of node method click"}
+{"level":30,"time":"2023-02-20T08:16:06.787Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Strict mode is enabled, find Locator with button.radius in page."}
+{"level":30,"time":"2023-02-20T08:16:07.418Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"End of node method click"}
+{"level":30,"time":"2023-02-20T08:16:07.422Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Start of node method getText"}
+{"level":30,"time":"2023-02-20T08:16:07.422Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Strict mode is enabled, find Locator with body in page."}
+{"level":30,"time":"2023-02-20T08:16:07.464Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Retrieved text for element body containing  You logged into a secure area!\n×\nSecure Area\nWelcome to the Secure Area. When you are done click logout below.\nLogout\nPowered by Elemental Selenium"}
+{"level":30,"time":"2023-02-20T08:16:07.464Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"End of node method getText"}
+{"level":30,"time":"2023-02-20T08:16:07.469Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Start of node method click"}
+{"level":30,"time":"2023-02-20T08:16:07.469Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Strict mode is enabled, find Locator with a.button in page."}
+{"level":30,"time":"2023-02-20T08:16:08.035Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"End of node method click"}
+{"level":30,"time":"2023-02-20T08:16:08.043Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-02-20T08:16:08.060Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-02-20T08:16:08.062Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-02-20T08:16:08.064Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-02-20T08:16:08.066Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Changed active context"}
+{"level":30,"time":"2023-02-20T08:16:08.066Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Changing current active page"}
+{"level":30,"time":"2023-02-20T08:16:08.066Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Changed active page"}
+{"level":30,"time":"2023-02-20T08:16:08.069Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-02-20T08:16:08.072Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-02-20T08:16:08.073Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-02-20T08:16:08.073Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-02-20T08:16:08.074Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-02-20T08:16:08.074Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-02-20T08:16:08.077Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-02-20T08:16:08.080Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-02-20T08:16:08.084Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Changed active context"}
+{"level":30,"time":"2023-02-20T08:16:08.084Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Changing current active page"}
+{"level":30,"time":"2023-02-20T08:16:08.084Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Changed active page"}
+{"level":30,"time":"2023-02-20T08:16:08.087Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Start of node method closeContext"}
+{"level":30,"time":"2023-02-20T08:16:08.104Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Removed page=9b252464-1ff6-4f8c-872c-364d714431b5 from context=3ef416fd-58d8-417c-a7c3-9db83883694f page stack"}
+{"level":30,"time":"2023-02-20T08:16:08.130Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"End of node method closeContext"}
+{"level":30,"time":"2023-02-20T08:16:08.134Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-02-20T08:16:08.134Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-02-20T08:16:08.155Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2023-02-20T08:16:08.265Z","pid":28355,"hostname":"irene-IdeaPad-3","msg":"End of node method closeAllBrowsers"}
